@@ -1,0 +1,9 @@
+page{
+  background: #f6f6f6;
+  padding: 5px auto
+}
+canvas{
+  border: 1px solid #d0d0d0;
+  margin: 5rpx;
+  background: #f2f2f2
+}

@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<view class="container">
+  
+  <view class="usermotto">
+    <text class="user-motto" mode="cover">{{motto}}</text>
+  </view>
+  <button size='medium' bindtap='SwitchTopic2' class='button2'>转到画板</button>
+</view>
